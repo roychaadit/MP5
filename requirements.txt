@@ -1,0 +1,9 @@
+numpy
+matplotlib
+torch
+torchvision
+tqdm
+gradescope-utils
+tensorboardX
+pillow
+absl-py
